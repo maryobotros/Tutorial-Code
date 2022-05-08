@@ -22,6 +22,3 @@ lifting_arm.run_to_posotion(270, 'shortest path', 10)
 # Turn to the right
 movement_motors.move(20, 'cm', 60)
 
-# Turn to the right
-movement_motors.move()
-
